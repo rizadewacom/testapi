@@ -1,0 +1,22 @@
+{
+"products":
+[{"id":1,"name":"Fork-tailed drongo","category":"Crimson"},
+{"id":2,"name":"Spotted deer","category":"Mauv"},
+{"id":3,"name":"Dark-winged trumpeter","category":"Maroon"},
+{"id":4,"name":"Green heron","category":"Yellow"},
+{"id":5,"name":"Sportive lemur","category":"Indigo"},
+{"id":6,"name":"Paddy heron (unidentified)","category":"Aquamarine"},
+{"id":7,"name":"Southern hairy-nosed wombat","category":"Puce"},
+{"id":8,"name":"Leopard","category":"Turquoise"},
+{"id":9,"name":"Javanese cormorant","category":"Maroon"},
+{"id":10,"name":"Indian star tortoise","category":"Orange"},
+{"id":11,"name":"Insect, stick","category":"Teal"},
+{"id":12,"name":"Ibis, glossy","category":"Purple"},
+{"id":13,"name":"Australian magpie","category":"Pink"},
+{"id":14,"name":"Trumpeter, dark-winged","category":"Green"},
+{"id":15,"name":"Elegant crested tinamou","category":"Pink"},
+{"id":16,"name":"Snake, racer","category":"Red"},
+{"id":17,"name":"Bleu, red-cheeked cordon","category":"Teal"},
+{"id":18,"name":"Pademelon, red-legged","category":"Mauv"},
+{"id":19,"name":"Beaver, european","category":"Mauv"},
+{"id":20,"name":"Colobus, magistrate black","category":"Indigo"}]}
